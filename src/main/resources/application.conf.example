@@ -1,0 +1,17 @@
+check.github.enabled = true
+check.bitbucket.enabled = true
+
+notification.slack.enabled = false
+notification.slack.token = "YOUR-SLACK-TOKEN"
+#notification.slack.room = "#room" # #general by default
+
+notification.hipchat.enabled = false
+notification.hipchat.token = "YOUR-HIPCHAT-ROOM-TOKEN"
+notification.hipchat.room = "YOUR-HIPCHAT-ROOM-ID"
+
+notification.email.enabled = false
+notification.sendgrid.token = "YOUR-SENGRID-TOKEN"
+notification.sendgrid.to.emails = ["email1@mail.com", "email2@mail.com"]
+notification.sendgrid.from.email = "email3@mail.com"
+#notification.sendgrid.to.name = "optional to name"
+#notification.sendgrid.from.name = "optional from name"
