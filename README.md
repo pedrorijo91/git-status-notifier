@@ -20,6 +20,7 @@ Notifications are sent trough:
 * [Slack](https://slack.com/)
 * [Hipchat](http://hipchat.com/)
 * Email (with [sendgrid](https://sendgrid.com/))
+* SMS (with [Twillio](https://www.twilio.com/)) (roadmap)
 
 ### Usage
 
@@ -64,6 +65,11 @@ Sendgrid requires to:
 * define the token
 * define the sender
 * define the email receiver(s)
+
+### TODO
+
+* Gitlab API monitor
+* SMS notifications, possibly using Twillio API
 
 ### Contributing
 
