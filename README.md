@@ -1,8 +1,6 @@
 # Git host status notifier
 
-[![Build Status](https://travis-ci.org/pedrorijo91/git-status-notifier.svg?branch=master)](https://travis-ci.org/pedrorijo91/git-status-notifier)
-[![Codacy Badge](https://api.codacy.com/project/badge/grade/8108c3bddd88400eb1b216f67fb7acc7)](https://www.codacy.com)
-
+[![Build Status](https://travis-ci.org/pedrorijo91/git-status-notifier.svg?branch=master)](https://travis-ci.org/pedrorijo91/git-status-notifier) [![Codacy Badge](https://api.codacy.com/project/badge/grade/f233e9027e244deca43349164d733e8f)](https://www.codacy.com/app/pedrorijo91/git-status-notifier)
 ---
 
 ### Git host status notifier
